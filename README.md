@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Rai</h1>
-<h3 align="center">Passionate Developer | MERN Stack & Data Analysis Enthusiast</h3>
+<h3 align="center">Passionate Developer | MERN Stack|Data Analysis</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Data Modelling**
 
 - 📫 How to reach me **khushi03rai@gmail.com**
 
