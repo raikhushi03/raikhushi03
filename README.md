@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Rai</h1>
-<h3 align="center">Passionate Developer | MERN Stack|Data Analysis</h3>
+<h3 align="center">Passionate Developer | MERN Stack| Data Analysis</h3>
 
 - 🌱 I’m currently learning **Data Modelling**
 
