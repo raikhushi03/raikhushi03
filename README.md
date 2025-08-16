@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 
 - 📫 How to reach me **khushi03rai@gmail.com**
+- - 📫 How to be impressed by me **https://khushi-rai-xzc092t.gamma.site/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
