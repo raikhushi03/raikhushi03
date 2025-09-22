@@ -1,7 +1,7 @@
 <h1 style="font-family: cursive; color: white; text-align: center;">Hello! I'm Khushi</h1>
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/OMoS9WvS9TQAAAAC/ai-grok-agent.gif" width="400" alt="AI Grok Agent">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -32,7 +32,9 @@ Sources
 
 📊 **Highlights**  
 - 📄 Research paper accepted at **ICAISC 2025**  
-- 🌱 Harvard WECode Amplify scholar 2023 
+- 🛠️ Harvard WECode Amplify scholar 2023
+- 🌱 Active contributor in open source and mentorship programs
+- 🎨 Built beautiful frontend UI for React applications 
 
 🎨 In my free time, you’ll find me **creating content and capturing moments**,  or experimenting with digital art!
 
