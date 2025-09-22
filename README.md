@@ -1,7 +1,7 @@
-<h1 style="font-family: cursive; color: white; text-align: center;">Hello! I'm Khushi Rai</h1>
+<h1 style="font-family: cursive; color: white; text-align: center;">Hello! I'm Khushi</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://imgur.com/real-life-footage-of-programmer-MvMxQ1a" width="100"/>
 </div>
 
 <div id="badges" align="center">
