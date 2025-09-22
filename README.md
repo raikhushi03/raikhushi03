@@ -1,19 +1,55 @@
-<h1 align="center">Hi 👋, I'm Khushi Rai</h1>
-<h3 align="center">Passionate Developer | FRONTEND |  Data Analysis</h3>
+<h1 style="font-family: cursive; color: white; text-align: center;">Hello! I'm Khushi Rai</h1>
 
-- 🌱 I’m currently learning Full Stack Web Development
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-- 📫 How to reach me **khushi03rai@gmail.com**
-- - 📫 How to be impressed by me **https://khushi-rai-xzc092t.gamma.site/**
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/khushirai1103/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khushirai1103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushirai1103" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=tripti033&style=flat-square&color=blue" alt=""/>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raikhushi03&show_icons=true&locale=en&layout=compact" alt="raikhushi03" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raikhushi03&" alt="raikhushi03" /></p>
+## 🌟 About Me
+
+Hi! I’m **Tripti Verma**, a final-year B.Tech student in Electronics and Communication Engineering with a specialization in Artificial Intelligence at **IGDTUW**.
+
+🔧 I’m passionate about building scalable backend systems, creative web solutions, and AI-powered applications that make a real-world impact. From deploying production-ready APIs at **Fuelbuddy** to designing intelligent systems like an **AI-based Attendance System**, my work reflects a balance of **engineering excellence and artistic vision**.
+
+💡 **Tech Stack**  
+`Python` • `JavaScript` • `MySQL` • `HTML/CSS` • `React Native` • `Next.js` • `OpenCV` • `Google Cloud Platform`
+
+📊 **Highlights**  
+- 🧠 300+ LeetCode problems solved  
+- 📄 Research paper accepted at **ICACIT 2024**  
+- 🛠️ Built **Sketchbook Stories**, a Next.js portfolio for artwork  
+- 🤝 Led web development for MLSA-IGDTUW  
+- 🌱 Active contributor in open source and mentorship programs  
+
+🎨 In my free time, you’ll find me **sketching, painting**, or experimenting with digital art!
+
+---
+
+## 📊 GitHub Stats
+
+![Tripti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tripti033&show_icons=true&theme=dark)
+
+## 💻 Most Used Languages
+
+![Tripti's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tripti033&layout=compact&theme=dark)
+
+---
+
+🌐 [Portfolio Website](https://jsxtripti.netlify.app/)  
+🖼️ [Sketchbook Stories](https://sketchbookstories.netlify.app/)  
+📫 Reach me at: tripti033bteceai21@igdtuw.ac.in  
+
+
+
