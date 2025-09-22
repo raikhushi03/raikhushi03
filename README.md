@@ -12,44 +12,43 @@
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=tripti033&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=raikhushi03&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
 
 ## 🌟 About Me
 
-Hi! I’m **Tripti Verma**, a final-year B.Tech student in Electronics and Communication Engineering with a specialization in Artificial Intelligence at **IGDTUW**.
+Hi! I’m **Khushi Rai**, a final-year B.Tech student in Electronics and Communication Engineering with a specialization in Artificial Intelligence at **IGDTUW**.
 
-🔧 I’m passionate about building scalable backend systems, creative web solutions, and AI-powered applications that make a real-world impact. From deploying production-ready APIs at **Fuelbuddy** to designing intelligent systems like an **AI-based Attendance System**, my work reflects a balance of **engineering excellence and artistic vision**.
+🔧 I’m passionate about creating impactful web solutions and intuitive digital platforms. From building applications like **MedCare** and **Fin-Vestor** to developing dynamic user interfaces during my internships at **NEC Corporation** and **Centre of Excellence**, IGDTUW, my work reflects a balance of **technical precision** and **creative problem-solving**. I enjoy transforming complex requirements into scalable, user-friendly systems that make a real-world difference.”
+
+Would you like me to make it more technical (backend/AI-oriented) or more creative (design & frontend-oriented) depending on what role you’re targeting?
+
+Sources
 
 💡 **Tech Stack**  
-`Python` • `JavaScript` • `MySQL` • `HTML/CSS` • `React Native` • `Next.js` • `OpenCV` • `Google Cloud Platform`
+`Python` • `JavaScript` • `MySQL` • `HTML/CSS` • `React`  • `HTML` • `TailwindCSS`• 
 
 📊 **Highlights**  
-- 🧠 300+ LeetCode problems solved  
-- 📄 Research paper accepted at **ICACIT 2024**  
-- 🛠️ Built **Sketchbook Stories**, a Next.js portfolio for artwork  
-- 🤝 Led web development for MLSA-IGDTUW  
-- 🌱 Active contributor in open source and mentorship programs  
+- 📄 Research paper accepted at **ICAISC 2025**  
+- 🌱 Harvard WECode Amplify scholar 2023 
 
-🎨 In my free time, you’ll find me **sketching, painting**, or experimenting with digital art!
+🎨 In my free time, you’ll find me **creating content and capturing moments**,  or experimenting with digital art!
 
 ---
 
 ## 📊 GitHub Stats
 
-![Tripti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tripti033&show_icons=true&theme=dark)
+![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raikhushi03&show_icons=true&theme=dark)
 
 ## 💻 Most Used Languages
 
-![Tripti's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tripti033&layout=compact&theme=dark)
+![Khushi's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=raikhushi03&layout=compact&theme=dark)
 
 ---
 
-🌐 [Portfolio Website](https://jsxtripti.netlify.app/)  
-🖼️ [Sketchbook Stories](https://sketchbookstories.netlify.app/)  
-📫 Reach me at: tripti033bteceai21@igdtuw.ac.in  
+📫 Reach me at: khushi03rai@gmail.com
 
 
 
