@@ -1,7 +1,7 @@
 <h1 style="font-family: cursive; color: white; text-align: center;">Hello! I'm Khushi</h1>
 
 <div id="header" align="center">
-  <img src="https://tenor.com/view/ai-grok-agent-artificial-intelligence-computer-gif-17202197413345879911" width="100"/>
+  <img src="https://media.tenor.com/OMoS9WvS9TQAAAAC/ai-grok-agent.gif" width="400" alt="AI Grok Agent">
 </div>
 
 <div id="badges" align="center">
